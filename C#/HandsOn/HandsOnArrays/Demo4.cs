@@ -24,7 +24,7 @@ namespace HandsOnArray
             Console.WriteLine("Row Size:" + row);
             Console.WriteLine("Col Size:" + col);
             //access value
-            Console.WriteLine("value at 1st row and 2nd column:{0}", n[0, 1]); //45
+            //Console.WriteLine("value at 1st row and 2nd column:{0}", n[0, 1]); //45
             foreach (int k in n)
                 Console.WriteLine(k);
             //print values in matrix format

@@ -19,6 +19,7 @@ namespace HandsOnStrings
             //string functions
             Console.WriteLine("Length: " + str.Length);
             char ch = str[2]; //returns l;
+            Console.WriteLine(ch);
             Console.WriteLine(str.ToUpper());
             Console.WriteLine(str.ToLower());
             str.ToLower();

@@ -19,7 +19,7 @@ namespace HandsOnStrings
             Console.WriteLine(s1);
             string s2 = "Welcome";
             string s3 = "David";
-            string s4 = String.Concat(s2," "+ s3); //s2+s3
+            string s4 = String.Concat(s2+" "+ s3); //s2+s3
             Console.WriteLine(s4);
 
         }
